@@ -12,19 +12,19 @@
 
 ### Uygulamayı çalıştırdığımızda Node Ekle butonuna tıkladığımızda kendisi otomatik olarak 0’dan başlayarak node ekliyor.
 
-<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage2.png" width="300" height="400" />
-<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage3.png" width="300" height="400" />
+<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage2.png" width="1150" height="650" />
+<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage3.png" width="1150" height="650" />
 
 ### Text Edit kısmında nodeların idlerini aralarında bir boşluk bırakıp yazdıktan sonra bağla butonu ile birbirlerine bağlayabiliyoruz.
 
-<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage4.png" width="300" height="400" />
+<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage4.png" width="1150" height="650" />
 
 ### Kruksal butonuna bastığımızda Kruksal algoritmasına göre ağırlık hesaplayıp ekrada gösteriyor kullanılmayan bağlantıları kaldırıyor.
 
-<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage5.png" width="300" height="400" />
+<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage5.png" width="1150" height="650" />
 
 ### Aynı şekilde Prim butonuna basıldığında Prim algoritmasına göre ağırlık hesaplayıp ekrana yazdırıyor ve kullanılmayan yolları kaldırıyor.
 
-<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage6.png" width="300" height="400" />
+<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage6.png" width="1150" height="650" />
 
 ### Son olarak ise ekranı temizle dediğimizde tüm nodeları ve ağırlıkları siliyor.
