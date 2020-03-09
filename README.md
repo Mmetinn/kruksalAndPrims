@@ -8,7 +8,7 @@
 
 ### En Kısa yol bulma algoritmalarından olan Prims algoritması Greedy bir algoritmadır. Öncelikli olarak En kısa yol bulma algoritmalarındaki temel amacı belirtelim. En Kısa yol bulma algoritmalarında ağırlıklı graf kullanılır. İki düğüm arası bir maliyet değeri vardır. Bunu iki şehir arasındaki uzaklık gibi düşünebilirsiniz. Bu tip algoritmalardaki amaç iki düğüm arasındaki en kısa yolu bulma olduğu gibi, tüm düğümleri en kısa yolu kullanarak gezmeyi hedeflemek de olabilir. Prims Algoritmasındaki amaç tüm düğümleri en az maliyet ile dolaşmaktır.
 
-<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage1.png" width="300" height="400" />
+<img src="https://github.com/Mmetinn/images/blob/master/kruksalPrimImage1.png" width="1150" height="650" />
 
 ### Uygulamayı çalıştırdığımızda Node Ekle butonuna tıkladığımızda kendisi otomatik olarak 0’dan başlayarak node ekliyor.
 
